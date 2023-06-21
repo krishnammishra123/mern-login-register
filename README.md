@@ -9,15 +9,25 @@ My purpose of developing this project is to show what I can do both on the front
 # Features
 
 -Register and Login .
+
 -role-based access control.
+
 -Interceptor for handle request and Response.
+
 -services and lazy-loading and validation and using Axios.
+
 -Jwt authentication and authorization.
+
 -Admin pannel with complete Crude operation.
+
 -user pannel.
+
 -Forgot Password using node mailer
+
 -manageusers,pagination .
+
 -Searching functionality etc.
+
 
 # Used Technologies
 SERVER SIDE => expressjs,express-unless,mongoose,cors,jsonwebtoken,bcryptjs,dotenv,nodemailer etc
