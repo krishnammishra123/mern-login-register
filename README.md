@@ -1,10 +1,13 @@
 # mern-login-register
-his project is a full-stack web application developed using the MERN stack, which consists of React.js for the frontend, Express.js for the backend, and MongoDB for the database. It focuses on providing user authentication functionality, including user registration and login features.
+this project is a full-stack web application developed using the MERN stack, which consists of React.js for the frontend, Express.js for the backend, and MongoDB for the database. 
+It focuses on providing user authentication functionality, including user registration and login features.
 
 # Purpose
+
 My purpose of developing this project is to show what I can do both on the frontend and the backend. I would also like to point out that it is my first project as Mern stack.
 
 # Features
+
 -Register and Login .
 -role-based access control.
 -Interceptor for handle request and Response.
